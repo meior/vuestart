@@ -1,6 +1,6 @@
 # vuestart
 
-> A Vue.js project
+> A Vue.js 2.0 tutorial project
 
 ## Build Setup
 
