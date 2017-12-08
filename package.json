@@ -1,7 +1,7 @@
 {
   "name": "vuestart",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js 2.0 tutorial project",
   "author": "meior <494579004@qq.com>",
   "private": true,
   "scripts": {
